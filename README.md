@@ -74,18 +74,22 @@ This project demonstrates real-world implementation of VPN concepts while mainta
 
 ### Login Screen
 ![Login Screen](https://github.com/GaneshRenuse/Virtual-Private-Network-For-Office/blob/main/Main%20Window.png)
+
 *Secure authentication with Company ID and Password*
 
 ### Main Interface - Disconnected
 ![Disconnected State](https://github.com/GaneshRenuse/Virtual-Private-Network-For-Office/blob/main/After%20Login.png)
+
 *Ready to establish VPN connection*
 
 ### Main Interface - Connected
 ![Connected State](https://github.com/GaneshRenuse/Virtual-Private-Network-For-Office/blob/main/After%20Connection.png)
+
 *Active VPN tunnel with encrypted communication*
 
 ### Error Handling
-![Error Modal](path/to/error-screenshot.png)
+![Error Modal](https://github.com/GaneshRenuse/Virtual-Private-Network-For-Office/blob/main/Wrong%20credentials.png)
+
 *User-friendly error messages with themed modals*
 
 ---

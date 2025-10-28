@@ -7,6 +7,8 @@
 
 **ACE VPN** is a secure, enterprise-grade VPN system designed for office environments. This project simulates a complete VPN infrastructure with client-server architecture, encrypted communication, and an admin dashboard for managing connections and users.
 
+![Work Flow](https://github.com/GaneshRenuse/Virtual-Private-Network-For-Office/blob/main/WorkFlow.png)
+
 ---
 
 ## 📋 Table of Contents

@@ -73,15 +73,15 @@ This project demonstrates real-world implementation of VPN concepts while mainta
 ## 📸 Screenshots
 
 ### Login Screen
-![Login Screen](path/to/login-screenshot.png)
+![Login Screen](C:\Users\lordh\OneDrive\Documents\GitHub\Virtual-Private-Network-For-Office\Main Window.png)
 *Secure authentication with Company ID and Password*
 
 ### Main Interface - Disconnected
-![Disconnected State](path/to/disconnected-screenshot.png)
+![Disconnected State](C:\Users\lordh\OneDrive\Documents\GitHub\Virtual-Private-Network-For-Office\After Login.png)
 *Ready to establish VPN connection*
 
 ### Main Interface - Connected
-![Connected State](path/to/connected-screenshot.png)
+![Connected State](C:\Users\lordh\OneDrive\Documents\GitHub\Virtual-Private-Network-For-Office\After Connection.png)
 *Active VPN tunnel with encrypted communication*
 
 ### Error Handling
@@ -407,16 +407,16 @@ Remove user account (Admin only).
 ## 🗓️ Development Roadmap
 
 ### Phase 1: Week 1 - Project Setup ✅
-- [x] Java Socket Programming basics
-- [x] TCP/UDP communication
-- [x] Multi-module Maven project structure
-- [x] Basic client-server connection
+- [ ] Java Socket Programming basics
+- [ ] TCP/UDP communication
+- [ ] Multi-module Maven project structure
+- [ ] Basic client-server connection
 
 ### Phase 2: Week 2 - Spring Boot & REST APIs ✅
-- [x] Spring Boot setup
-- [x] REST API endpoints
-- [x] JSON handling
-- [x] Postman testing
+- [ ] Spring Boot setup
+- [ ] REST API endpoints
+- [ ] JSON handling
+- [ ] Postman testing
 
 ### Phase 3: Week 3 - Database Integration 🔄
 - [ ] MySQL/MariaDB setup
@@ -493,9 +493,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@GaneshRenuse](https://github.com/GaneshRenuse)
+- LinkedIn: [Ganesh Renuse](https://www.linkedin.com/in/ganesh-renuse-1a40ab1ba/)
+- Email: ganesh21renuse3@gmail.com
 
 ---
 
@@ -512,9 +512,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or need help, please:
-- Open an [issue](https://github.com/yourusername/ace-vpn/issues)
-- Email: support@acevpn.com
-- Join our [Discord community](https://discord.gg/acevpn)
+- Open an [issue](https://github.com/GaneshRenuse/Virtual-Private-Network-For-Office/issues)
+- Email: ganesh21renuse3@gmail.com
+- Join our [Discord community](https://discord.gg/wphZmJwTC4)
 
 ---
 
@@ -527,6 +527,6 @@ If you find this project useful, please give it a ⭐!
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Your Name</p>
+  <p>Made with ❤️ by Ganesh Renuse</p>
   <p>© 2025 ACE VPN. All rights reserved.</p>
 </div>

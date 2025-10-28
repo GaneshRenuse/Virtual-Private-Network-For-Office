@@ -522,7 +522,7 @@ If you have any questions or need help, please:
 
 If you find this project useful, please give it a ⭐!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/ace-vpn&type=Date)](https://star-history.com/#yourusername/ace-vpn&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=GaneshRenuse/Virtual-Private-Network-For-Office&type=Date)](https://star-history.com/#GaneshRenuse/Virtual-Private-Network-For-Office&Date)
 
 ---
 

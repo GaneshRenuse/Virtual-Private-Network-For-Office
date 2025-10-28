@@ -105,8 +105,8 @@ This project demonstrates real-world implementation of VPN concepts while mainta
         │                    │             │
         └───────────────────►│   Admin     │
             Web Access       │  Dashboard  │
-                            │  (Web UI)   │
-                            └─────────────┘
+                             │  (Web UI)   │
+                             └─────────────┘
 ```
 
 ### Data Flow
